@@ -1,0 +1,20 @@
+# Intellij
+.idea/
+*.iml
+*.iws
+
+# Mac
+.DS_Store
+
+#vim
+tags
+
+#debug dir
+debug/
+
+#vendor directory
+vendor/
+
+#scratch directory
+scratch/
+anchore-reports
